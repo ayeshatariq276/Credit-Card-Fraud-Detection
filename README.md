@@ -1,6 +1,6 @@
  Credit Card Fraud Detection using Data Science & AI
 
-Project Overview
+**Introduction**
 This project focuses on detecting fraudulent credit card transactions using **Data Science and Artificial Intelligence techniques**. The objective is to analyze transaction data, identify suspicious patterns, and build intelligent models capable of classifying transactions as **fraudulent** or **non-fraudulent**.
 
 The project was developed as part of the **Data Science & AI course** and follows a **week-by-week structured methodology**, covering the complete lifecycle of a data science project—from data exploration to explainability, ethics, and deployment concepts.
@@ -78,7 +78,7 @@ The models were evaluated using:
 * F1 Score
 * ROC Curve and AUC
 
-📌 **Recall** was identified as the most important metric due to the high cost of missed fraud cases.
+**Recall** was identified as the most important metric due to the high cost of missed fraud cases.
 
 Explainability & Ethics
 The project includes a dedicated section on **Explainable AI**, explaining:
@@ -117,10 +117,3 @@ The repository includes a **complete draft project report** containing:
 * Deployment Concept
 * Conclusion & Future Work
 
-Project Status
-
-✔ All weekly assignments completed (Week 1–14)
-✔ Dataset included
-✔ Models implemented and evaluated
-✔ Explainability and ethics addressed
-✔ Draft report ready for final submission
