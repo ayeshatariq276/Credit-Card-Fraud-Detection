@@ -5,7 +5,7 @@ This project focuses on detecting fraudulent credit card transactions using **Da
 
 The project was developed as part of the **Data Science & AI course** and follows a **week-by-week structured methodology**, covering the complete lifecycle of a data science project—from data exploration to explainability, ethics, and deployment concepts.
 
- Project Objectives
+## Project Objectives
  
 * Understand and preprocess credit card transaction data
 * Perform exploratory data analysis (EDA)
@@ -17,7 +17,7 @@ The project was developed as part of the **Data Science & AI course** and follow
 * Address ethical considerations in financial AI systems
 * Present an end-to-end project pipeline
 
- Repository Structure
+ ## Repository Structure
 
 Credit-Card-Fraud-Detection/
 │
@@ -65,7 +65,7 @@ The project follows a structured and systematic workflow:
 * **Artificial Neural Network (Conceptual)** – Advanced fraud detection approach
 Each model was evaluated to understand its strengths, limitations, and suitability for fraud detection.
 
- Evaluation Metrics
+## Evaluation Metrics
 The models were evaluated using:
 
 * Accuracy
@@ -83,14 +83,14 @@ The project includes a dedicated section on **Explainable AI**, explaining:
 * Feature influence on predictions
 * Transparency in financial AI systems
 
-Ethical considerations addressed include:
+## Ethical considerations addressed include:
 
 * Bias and fairness
 * False positives impact
 * Data privacy and confidentiality
 * Responsible AI usage
   
-Deployment 
+## Deployment 
 
 The deployment phase is explained conceptually, covering:
 
@@ -101,7 +101,7 @@ The deployment phase is explained conceptually, covering:
 
 This demonstrates how the model can be applied in real-world financial environments.
 
- Final Report
+## Final Report
 The repository includes a **complete draft project report** containing:
 
 * Abstract
@@ -112,4 +112,12 @@ The repository includes a **complete draft project report** containing:
 * Explainability & Ethics
 * Deployment Concept
 * Conclusion & Future Work
+
+## Project Milestone
+
+ All project phases completed  
+ Models implemented and evaluated  
+ Explainability and ethics included  
+ Draft report ready for final submission
+
 
