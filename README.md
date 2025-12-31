@@ -1,3 +1,11 @@
+## Student Name: Ayesha Tariq
+## Roll No: 2225165094
+## Section: BSSE(B)
+## Subject: Data Science & Artificial Intelligence
+## Project Title: Credit Card Fraud Detection
+## Dataset Used: creditcard_sample.csv
+## Submission Type: Draft Project Report
+
  Credit Card Fraud Detection using Data Science & AI
 
 **Introduction**
