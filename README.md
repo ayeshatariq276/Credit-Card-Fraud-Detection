@@ -42,11 +42,8 @@ Credit-Card-Fraud-Detection/
 │
 ├── report/
 │   └── Credit_Card_Fraud_Detection_Draft_Report.pdf
-│
-└── README.md
-```
- Methodology
 
+ Methodology
 The project follows a structured and systematic workflow:
 
 1. **Data Understanding & Exploration**
@@ -66,7 +63,6 @@ The project follows a structured and systematic workflow:
 * **Linear Regression** – Transaction amount prediction
 * **K-Means Clustering** – Unsupervised pattern discovery
 * **Artificial Neural Network (Conceptual)** – Advanced fraud detection approach
-
 Each model was evaluated to understand its strengths, limitations, and suitability for fraud detection.
 
  Evaluation Metrics
